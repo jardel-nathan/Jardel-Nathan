@@ -20,7 +20,7 @@
  <img title="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img title="jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
  <img title="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/>
- 
+  <img title="typeorm" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/>
  <img title="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </p>
 
