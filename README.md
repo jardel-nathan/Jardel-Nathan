@@ -1,9 +1,16 @@
 ## Hi there I'm Jardel Nathan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px">
 
 I'm a Full Stack Developer, I have been working with web development since 2017, I have experience with PHP, Laravel, React, NodeJS among others. 
-
+<br>
+<br>
+📫 You can find me on:
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Jardel%20Nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardel-nathan/)](https://www.linkedin.com/in/jardel-nathan/)
+[![Twitter Badge](https://img.shields.io/badge/-Jardel%20Nathan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jardelnathan)](https://twitter.com/jardelnathan)
+[![Instagram Badge](https://img.shields.io/badge/-Jardel%20Nathan-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jardelnathan/)](https://www.instagram.com/jardelnathan/)
+[![Gmail Badge](https://img.shields.io/badge/-Jardel%20Nathan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardelnathan@gmail)](mailto:jardelnathan@gmail)
 <hr>
-<b>Some of the technologies I use are:</b>
+💻Some of the technologies I use are:
 <p align="left">
  <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
  <img title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="25" height="25"/><img title="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>  <img title="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="25" height="25"/> <img title="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25"/>
@@ -31,11 +38,6 @@ I'm a Full Stack Developer, I have been working with web development since 2017,
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jardel%20Nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardel-nathan/)](https://www.linkedin.com/in/jardel-nathan/)
-[![Twitter Badge](https://img.shields.io/badge/-Jardel%20Nathan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jardelnathan)](https://twitter.com/jardelnathan)
-[![Instagram Badge](https://img.shields.io/badge/-Jardel%20Nathan-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jardelnathan/)](https://www.instagram.com/jardelnathan/)
-[![Gmail Badge](https://img.shields.io/badge/-Jardel%20Nathan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardelnathan@gmail)](mailto:jardelnathan@gmail)
 
 
-<p>
-  
+
