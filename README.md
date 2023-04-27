@@ -26,7 +26,7 @@ I'm a Full Stack Developer, I have been working with web development since 2017,
 <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 <img title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/>
  <img title="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" alt="redis" width="25" height="25"/>
- <img title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svgg" alt="jenkins" width="25" height="25"/>
+ <img title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="25" height="25"/>
 </p>
 
 <br>
