@@ -8,7 +8,7 @@ I'm a Full Stack Developer, I have been working with web development since 2017,
 [![Linkedin Badge](https://img.shields.io/badge/-Jardel%20Nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardel-nathan/)](https://www.linkedin.com/in/jardel-nathan/)
 [![Twitter Badge](https://img.shields.io/badge/-@jardelnathan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jardelnathan)](https://twitter.com/jardelnathan)
 [![Instagram Badge](https://img.shields.io/badge/-Jardel%20Nathan-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jardelnathan/)](https://www.instagram.com/jardelnathan/)
-[![Gmail Badge](https://img.shields.io/badge/-Jardel%20Nathan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardelnathan@gmail)](mailto:jardelnathan@gmail)
+[![Gmail Badge](https://img.shields.io/badge/-jardelnathan@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardelnathan@gmail)](mailto:jardelnathan@gmail)
 <hr>
 💻Some of the technologies I use are:
 <p align="left">
