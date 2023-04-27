@@ -23,8 +23,8 @@ I'm a Full Stack Developer, I have been working with web development since 2017,
 <img title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
 <img title="materialui" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="materialui" width="25" height="25"/>
 <br>
-<img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
-<img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25"/>
+<img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="25" height="25"/>
+<img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="25" height="25"/>
 <img title="Codeigniter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="25" height="25"/>
 <img title="Symfony" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="25" height="25"/>
 <img title="Drupal" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain.svg" alt="drupal" width="25" height="25"/>
